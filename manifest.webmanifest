@@ -1,0 +1,14 @@
+{
+  "name": "KElástico",
+  "short_name": "KElástico",
+  "description": "キーと速度を変えて音楽を再生するアプリ（版 0.2.4）",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A0E16",
+  "theme_color": "#0A0E16",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
